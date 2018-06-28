@@ -1,0 +1,10 @@
+README.txt
+setup.py
+uluplot/__init__.py
+uluplot/color_dicts.py
+uluplot/uluplot.py
+uluplot.egg-info/PKG-INFO
+uluplot.egg-info/SOURCES.txt
+uluplot.egg-info/dependency_links.txt
+uluplot.egg-info/requires.txt
+uluplot.egg-info/top_level.txt
